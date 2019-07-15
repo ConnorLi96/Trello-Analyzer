@@ -2,7 +2,7 @@
 
 Trello-Analyzer is a workload statistics tool, can autamtically achieve analysis and vistualization and email notification. 
 
-## 0606 working notes
+## Process Management
 
 ### 需求：
 - 1. 数据清理和统计
@@ -14,7 +14,6 @@ Trello-Analyzer is a workload statistics tool, can autamtically achieve analysis
 
 ### 流程：
 - 1. 单个 list 的统计、可视化：研究是用之前作图的脚本还是自己写
-- 1.5 用 python 发邮件
 - 2. 定时任务，每周五晚
 - 3. 模块化脚本、自动邮件等
 - 4. 【】统计
