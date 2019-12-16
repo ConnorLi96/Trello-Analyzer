@@ -34,11 +34,11 @@ plt.rcParams['axes.unicode_minus']=False  #set for displaying `-
 
 # 设置参数
 
-g_token = "c68bb70c102d863b3d96bc5b8901ff7689dfcba68f040b4fb3d56e9b2f8dbab8"
-g_app_key = "e70d4c831ca1c79442f7ef7a68aeb9e3"
-g_user_id = "5c16ff1d6e249c62d057987f"
-g_board_id = "5ac3159ed146b0793ff30206" # ThunderDB
-# g_board_id = "5b640e00c8b518181d80fa46" # Rating system
+g_token = ""
+g_app_key = ""
+g_user_id = ""
+g_board_id = ""
+# g_board_id = ""
 g_crontab_style = False
 
 workload_pattern = u'[(（]\s*(\d+(?:\.\d+)?)\s*(pt|PT|pT|Pt)\s*[)）]' # 正则表达式
